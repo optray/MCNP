@@ -1,7 +1,7 @@
 # Monte Carlo Neural PDE Solver (MCNP Solver)
 
 This repository contains the code for the paper
-- Monte Carlo Neural PDE Solver, submitted to NeurIPS 2023
+- Monte Carlo Neural PDE Solver
 
 ## Quick Start
 
