@@ -1,7 +1,7 @@
 # Monte Carlo Neural PDE Solver (MCNP Solver)
 
 This repository contains the code for the paper
-- Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation (IEEE TPAMi 2025)
+- Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation (IEEE TPAMI 2025)
 
 ## Quick Start
 
